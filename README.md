@@ -10,6 +10,7 @@ You can change the API data used in the game in the project and apply it to diff
 
 You can access the visual of the project below.
 
+![Animation](https://github.com/oranmehmetsirin/Poke-2/blob/main/gif.gif?raw=true)
 
 # Getting Started with Create React App
 
